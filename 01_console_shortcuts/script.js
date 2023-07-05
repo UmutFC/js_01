@@ -3,7 +3,7 @@ console.log("hello");
 // you can clear console with clear(); function
 // also you can do 'Ctrl + L ' or reload (F5) the page
 
-//if we write console and hit it to console we can see console object methods
+//if we write 'console' to console we can see console object methods
 
 // you can console log objects as table
 console.table({ name: "Furkan", email: "furkancomalak@gmail.com" });
